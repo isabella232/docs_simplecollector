@@ -8,7 +8,7 @@ Introduction
 
 .. _ngsimplecollector_purpose:
 
-**Simple Collector** - complex of Android application and nextgis.com settings for field data collections. It provider more simpler workflow than Formbuilder + Nextgis Mobile solution.
+**Simple Collector** is an Android application that uses nextgis.com Web GIS for field data collection. Simple Collector provides simpler workflow than Formbuilder + NextGIS Mobile at expense of flexibility. Simple Collector is super easy to use for surveyors and requires just a little bit a set up.
 
 
 .. figure:: _static/ng_simplecollector_mobile_1_ru.png
@@ -19,19 +19,19 @@ Introduction
    Mobile app window.
 
 Features
---------------
-* Mobile app can be obtained in Google Play for free
-* Configuration of data structure performs via browser at Nextgis.com
-* Surveyor need just install app, fill URL, login and password. Then surveyor just go and tap buttons.
-* Mobile app automatically send data to nextgis.com. In case of no internet access, device reboot, or pause in surveying - data will not lost. They will send to server when internet will appear.
-* Data scructure is simple as possible: only point with coordinates, surveyor id, and type of object. No long text fields, witch hard to analyze. Only table machine-read data, witch can be processed using GIS methods 
+--------
+* Mobile app is freely available on Google Play.
+* Configuration of data structure can be done via Web browser at your nextgis.com instance.
+* Surveyor just needs to install and app, fill Web GIS name, login and password.
+* Mobile app automatically syncs data with your Web GIS. In case there is no internet access, device reboot, or pause in surveying - data will not be lost. It will be sent to the server when connectivity is restored.
+* Data structure is as simple as possible: only points with coordinates, surveyor id, type of object and some additional fields. No long hard to analyze sets of fields. Only machine-readable data that can be processed using GIS methods.
 
 Installation
-==============
+============
 
 1. Get access to Simple Collector for you nextgis.com account.
 2. Download NextGIS Simple Collector from Google Play.
-3. Start NextGIS Simple Collector on Android, provide nextgis.com account, and your WEB GIS login and password. Mobile application will create ownself data structure in you WEB GIS.
+3. Start NextGIS Simple Collector, provide Web GIS name, login and password. Mobile application will initialize data structure in you Web GIS.
 
 Create data structure
 ===========================
