@@ -11,7 +11,7 @@ Introduction
 **Simple Collector** - complex of Android application and nextgis.com settings for field data collections. It provider more simpler workflow than Formbuilder + Nextgis Mobile solution.
 
 
-.. figure:: _static/nng_simplecollector_mobile_1_ru.jpg
+.. figure:: _static/nng_simplecollector_mobile_1_ru.png
    :name: nng_simplecollector_mobile_1_ru
    :align: center
    :height: 10cm
@@ -56,7 +56,7 @@ Create data structure
 
 8. At your mobile device, click “Sinchronize”. Your simple form will appear.
 
-.. figure:: _static/nng_simplecollector_mobile_1_ru.jpg
+.. figure:: _static/nng_simplecollector_mobile_1_ru.png
    :name: nng_simplecollector_mobile_retry_ru
    :align: center
    :height: 10cm
