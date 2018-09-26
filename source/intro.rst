@@ -82,4 +82,13 @@ Data will added in WEB Gis vector layer. You can download in as file in web inte
 
 More easy workflow: start desktop software NextGIS QGIS, connect to your WEB Gis using NextGIS Connect module, and download layer.
 
+.. figure:: _static/ng_simplecollector_desktop_1_ru.png
+   :name: ng_simplecollector_desktop_1_ru
+   :align: center
+   :height: 10cm
+  
+   Collected data appear in desktop software NextGIS QGIS
+
+
+
 
