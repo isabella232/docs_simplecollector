@@ -10,6 +10,14 @@ Introduction
 
 **Simple Collector** - complex of Android application and nextgis.com settings for field data collections. It provider more simpler workflow than Formbuilder + Nextgis Mobile solution.
 
+
+.. figure:: _static/nng_simplecollector_mobile_1_ru.jpg
+   :name: nng_simplecollector_mobile_1_ru
+   :align: center
+   :height: 10cm
+  
+   Mobile app window.
+
 Installation
 ==============
 
@@ -24,6 +32,14 @@ Create data structure
 6. Add field editors. Go to “Учётчики” lookup table → Update, add users using web browser.
 7. Add “objects of count” - it shown as button for surveyor. Go to “objects’ lookup table → Update, and add record with browser. 
 8. At your mobile device, click “Sinchronize”. Your simple form will appear.
+
+.. figure:: _static/nng_simplecollector_mobile_1_ru.jpg
+   :name: nng_simplecollector_mobile_retry_ru
+   :align: center
+   :height: 10cm
+  
+   Your form in mobile app window.
+   
 
 You should provide an URL, Login and Password for surveyors. Create of multiple users in WEB Gis avaible at high tarifs. On simple tariff you can provide ownself login and password, but any surveyor can delete any data using web browser.
 
