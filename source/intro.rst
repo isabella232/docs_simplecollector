@@ -18,6 +18,14 @@ Introduction
   
    Mobile app window.
 
+Features
+--------------
+* Mobile app can be obtained in Google Play for free
+* Configuration of data structure performs via browser at Nextgis.com
+* Surveyor need just install app, fill URL, login and password. Then surveyor just go and tap buttons.
+* Mobile app automatically send data to nextgis.com. In case of no internet access, device reboot, or pause in surveying - data will not lost. They will send to server when internet will appear.
+* Data scructure is simple as possible: only point with coordinates, surveyor id, and type of object. No long text fields, witch hard to analyze. Only table machine-read data, witch can be processed using GIS methods 
+
 Installation
 ==============
 
