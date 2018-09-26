@@ -29,8 +29,31 @@ Create data structure
 ===========================
 
 5. Open WEB GIS in desktop browser. A new group “Простые учёты, сбор данных” will appear.
+
+
+   
+   
 6. Add field editors. Go to “Учётчики” lookup table → Update, add users using web browser.
-7. Add “objects of count” - it shown as button for surveyor. Go to “objects’ lookup table → Update, and add record with browser. 
+
+
+.. figure:: _static/ng_simplecollector_add_surveyors_1_ru.png
+   :name: ng_simplecollector_add_surveyors_1_ru
+   :align: center
+   :height: 10cm
+  
+   Add surveyours.
+
+
+7. Add “objects of survey” - it shown as button for surveyor. Go to “objects’ lookup table → Update, and add record with browser. 
+
+.. figure:: _static/ng_simplecollector_objects_1_ru.png
+   :name: ng_simplecollector_objects_1_ru
+   :align: center
+   :height: 10cm
+  
+   Add objects of survey.
+   
+
 8. At your mobile device, click “Sinchronize”. Your simple form will appear.
 
 .. figure:: _static/nng_simplecollector_mobile_1_ru.jpg
