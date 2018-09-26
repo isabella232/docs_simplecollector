@@ -34,25 +34,20 @@ Installation
 3. Start NextGIS Simple Collector, provide Web GIS name, login and password. Mobile application will initialize data structure in you Web GIS.
 
 Create data structure
-===========================
+=====================
 
-5. Open WEB GIS in desktop browser. A new group “Простые учёты, сбор данных” will appear.
-
-
-   
-   
-6. Add field editors. Go to “Учётчики” lookup table → Update, add users using web browser.
-
+5. Open Web GIS in your Web browser. A new group “ Simple collector, data” will appear in the root folder.
+6. Add surveyors. Go to “People” lookup table → Update, add field crew.
 
 .. figure:: _static/ng_simplecollector_add_surveyors_1_ru.png
    :name: ng_simplecollector_add_surveyors_1_ru
    :align: center
    :height: 10cm
   
-   Add surveyours.
+   Add surveyors.
 
 
-7. Add “objects of survey” - it shown as button for surveyor. Go to “objects’ lookup table → Update, and add record with browser. 
+7. Add surveyed “objects” list. Each object will be shown as a button for surveyor. Go to “objects’ lookup table → Update, and add record with browser. 
 
 .. figure:: _static/ng_simplecollector_objects_1_ru.png
    :name: ng_simplecollector_objects_1_ru
@@ -62,7 +57,7 @@ Create data structure
    Add objects of survey.
    
 
-8. At your mobile device, click “Sinchronize”. Your simple form will appear.
+8. At your mobile device, click “Synchronize”. Your simple form will appear.
 
 .. figure:: _static/ng_simplecollector_mobile_1_ru.png
    :name: nng_simplecollector_mobile_retry_ru
@@ -71,24 +66,25 @@ Create data structure
   
    Your form in mobile app window.
    
+9. Share
 
-You should provide an URL, Login and Password for surveyors. Create of multiple users in WEB Gis avaible at high tarifs. On simple tariff you can provide ownself login and password, but any surveyor can delete any data using web browser.
+Ask surveyors to install Simple Collector. Let them know Web GIS name, login and password. Create of multiple users in WEB Gis avaible at high tarifs. On simple tariff you can provide ownself login and password, but any surveyor can delete any data using web browser.
 
 Manual for surveyors
-============================
+====================
 
-1. Download NextGIS Simple collector in Google Play
-2. Fill URL, login and password, witch administrator you provide
-3. You will get a list of user. Select own.
-4. Since this time you can call “Synchronize” every time, when administrator made a changes in structure.
-5. Go outside, push “Start” and then buttons in form
+1. Download NextGIS Simple collector at Google Play
+2. Fill Web GIS name, login and password, provided by administrator
+3. You will see a list of surveyors. Select one.
+4. You can hit “Synchronize” to see the latest changes to the structure.
+5. Go outside, hit “Start track” and then use buttons on the form to collect data.
 
 After data collection
-=============================
+=====================
 
-Data will added in WEB Gis vector layer. You can download in as file in web interface, it will be GeoJSON file with nodes in EPSG:3857 coordinate system, or as CSV and compute it in other software.
+Data will added as a Web GIS vector layer. You can download in as a GeoJSON or CSV in EPSG:3857 coordinate system.
 
-More easy workflow: start desktop software NextGIS QGIS, connect to your WEB Gis using NextGIS Connect module, and download layer.
+Easier workflow: start desktop software NextGIS QGIS, connect to your Web GIS using NextGIS Connect plugin, and download layer right in  your GIS.
 
 .. figure:: _static/ng_simplecollector_desktop_1_ru.png
    :name: ng_simplecollector_desktop_1_ru
