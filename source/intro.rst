@@ -29,15 +29,15 @@
 Установка для администратора
 ============================
 
-1. Get access to Simple Collector for you nextgis.com account.
-2. Download NextGIS Simple Collector from Google Play.
-3. Start NextGIS Simple Collector, provide Web GIS name, login and password. Mobile application will initialize data structure in you Web GIS.
+1. Получите доступ к приложению для своей Веб ГИС.
+2. Скачайте Простые учёты из Google Play.
+3. Запустите приложение, введите имя Веб ГИС, логин, пароль. Приложение само создаст необходимую структуру данных.
 
 Создание проекта по сбору данных
 ================================
 
-5. Open Web GIS in your Web browser. A new group “ Simple collector, data” will appear in the root folder.
-6. Add surveyors. Go to “People” lookup table → Update, add field crew.
+5. Откройте Веб ГИС в браузере. В корне структуры появится папка "Простые учёты".
+6. Добавьте сборщиков отредактировав таблицу "People".
 
 .. figure:: _static/ng_simplecollector_add_surveyors_1_ru.png
    :name: ng_simplecollector_add_surveyors_1_ru
@@ -47,7 +47,7 @@
    Добавление сборщиков
 
 
-7. Add surveyed “objects” list. Each object will be shown as a button for surveyor. Go to “objects’ lookup table → Update, and add record with browser. 
+7. Добавьте типы объектов в таблицу "objects". Каждый объект будет показан как кнопка в результирующей форме.
 
 .. figure:: _static/ng_simplecollector_objects_1_ru.png
    :name: ng_simplecollector_objects_1_ru
@@ -57,34 +57,34 @@
    Добавление собираемых объектов
    
 
-8. At your mobile device, click “Synchronize”. Your simple form will appear.
+8. На мобильном устройстве, выберите "Синхронизировать". Появится форма.
 
 .. figure:: _static/ng_simplecollector_mobile_1_ru.png
    :name: nng_simplecollector_mobile_retry_ru
    :align: center
    :height: 10cm
   
-   Your form in mobile app window.
+   Форма сбора данных.
    
-9. Share
+9. Поделитесь со сборщиками
 
-Ask surveyors to install Simple Collector. Let them know Web GIS name, login and password. Create of multiple users in WEB Gis avaible at high tarifs. On simple tariff you can provide ownself login and password, but any surveyor can delete any data using web browser.
+Предложите сборщикам установить Простые учёты. Сообщите им имя Веб ГИС, логин, пароль. Аккаунт может быть один или несколько. В своей Веб ГИС вы можете создать несколько пользователей.
 
 Начало работы для сборщика
 ==========================
 
-1. Download NextGIS Simple collector on `Google Play <https://play.google.com/store/apps/details?id=com.nextgis.simple_collector>`.
-2. Fill Web GIS name, login and password, provided by administrator
-3. You will see a list of surveyors. Select one.
-4. You can hit “Synchronize” to see the latest changes to the structure.
-5. Go outside, hit “Start track” and then use buttons on the form to collect data.
+1. Скачайте приложение Простые учёты с `Google Play <https://play.google.com/store/apps/details?id=com.nextgis.simple_collector>`.
+2. Введите имя Web GIS, логин, пароль, которые вам сообщил администратор.
+3. Вы увидите список сборщиков, выберите себя.
+4. Нажмите "Синхронизировать" чтобы увидеть последние изменения в проекте.
+5. Можно начинать работу. Нажмите "Начать" и используйте кнопки на форме для сбора данных.
 
 После окончания сбора
 =====================
 
-Data will added as a Web GIS vector layer. You can download in as a GeoJSON or CSV in EPSG:3857 coordinate system.
+Данные будут добавлены как слой Веб ГИС. Вы можете загрузить их в формате GeoJSON или CSV (система координат EPSG:3857).
 
-Easier workflow: start desktop software NextGIS QGIS, connect to your Web GIS using NextGIS Connect plugin, and download layer right in  your GIS.
+Альтернативно: запустите NextGIS QGIS, подключитесь к Web GIS с помощью NextGIS Connect и загрузите слой прямо в ГИС.
 
 .. figure:: _static/ng_simplecollector_desktop_1_ru.png
    :name: ng_simplecollector_desktop_1_ru
@@ -92,7 +92,4 @@ Easier workflow: start desktop software NextGIS QGIS, connect to your Web GIS us
    :height: 10cm
   
    Собранные данные в NextGIS QGIS
-
-
-
 
