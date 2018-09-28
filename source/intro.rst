@@ -8,7 +8,7 @@ Introduction
 
 .. _ngsimplecollector_purpose:
 
-**Simple Collector** is an Android application that uses nextgis.com Web GIS for field data collection. Simple Collector provides simpler workflow than Formbuilder + NextGIS Mobile at expense of flexibility. Simple Collector is super easy to use for surveyors and requires just a little bit a set up.
+**Simple Collector** is an Android application that uses nextgis.com Web GIS for field data collection. Simple Collector provides simpler workflow than Formbuilder + NextGIS Mobile at the expense of flexibility. Simple Collector is super easy to use by surveyors and requires just a little bit a set up.
 
 
 .. figure:: _static/ng_simplecollector_mobile_1_ru.png
@@ -16,7 +16,7 @@ Introduction
    :align: center
    :scale: 30%
   
-   Mobile app window.
+   Mobile app window overview.
 
 Features
 --------
@@ -79,18 +79,6 @@ Manual for surveyors
 4. You can hit “Synchronize” to see the latest changes to the structure.
 5. Go outside, hit “Start track” and then use buttons on the form to collect data.
 
-Troubleshooting
-=====================
-
-Message "initializatin error" may occur if you login to different instances (e. q. login to trolleway.nextgis.com, then login to mostram.nextgis.com). In case of Initializatin error go to Android system settings --> synchronisation --> settings for NextGIS Simple collector, and remove old accounts.
-
-.. figure:: _static/ng_simplecollector_android_synchronisation_accounts.jpg
-   :name: ng_simplecollector_android_synchronisation_accounts
-   :align: center
-   :scale: 30%
-  
-   Android OS settings of synchronisation
-
 After data collection
 =====================
 
@@ -105,3 +93,14 @@ Easier workflow: start desktop software NextGIS QGIS, connect to your Web GIS us
   
    Collected data appear in desktop software NextGIS QGIS
 
+Troubleshooting
+===============
+
+Message "initialization error" may occur if you login to different Web GIS (for example login to trolleway.nextgis.com and then login to mostram.nextgis.com) or to the same Web GIS using different accounts. If this happens go to Android system settings --> Account and find settings for NextGIS Simple collector, remove old accounts.
+
+.. figure:: _static/ng_simplecollector_android_synchronisation_accounts.jpg
+   :name: ng_simplecollector_android_synchronisation_accounts
+   :align: center
+   :scale: 30%
+  
+   Android OS settings of synchronisation
