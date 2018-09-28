@@ -14,7 +14,7 @@ Introduction
 .. figure:: _static/ng_simplecollector_mobile_1_ru.png
    :name: nng_simplecollector_mobile_1_ru
    :align: center
-   :height: 10cm
+   :scale: 50%
   
    Mobile app window.
 
@@ -62,7 +62,7 @@ Create data structure
 .. figure:: _static/ng_simplecollector_mobile_1_ru.png
    :name: nng_simplecollector_mobile_retry_ru
    :align: center
-   :height: 10cm
+   :scale: 50%
   
    Your form in mobile app window.
    
