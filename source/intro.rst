@@ -73,7 +73,7 @@
 Начало работы для сборщика
 ==========================
 
-1. Скачайте приложение Простые учёты с `Google Play <https://play.google.com/store/apps/details?id=com.nextgis.simple_collector>`.
+1. Скачайте приложение Простые учёты с `Google Play <https://play.google.com/store/apps/details?id=com.nextgis.simple_collector>`_.
 2. Введите имя Web GIS, логин, пароль, которые вам сообщил администратор.
 3. Вы увидите список сборщиков, выберите себя.
 4. Нажмите "Синхронизировать" чтобы увидеть последние изменения в проекте.
