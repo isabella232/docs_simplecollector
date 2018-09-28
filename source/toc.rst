@@ -2,10 +2,10 @@
 
 .. Simple Collector TOC
 
-Документация Simple Collector
+Simple collector documentation
 ==============================
 
-Содержание:
+Contents:
     
 .. toctree::
    :maxdepth: 2
