@@ -14,7 +14,7 @@
 .. figure:: _static/ng_simplecollector_mobile_1_ru.png
    :name: nng_simplecollector_mobile_1_ru
    :align: center
-   :height: 10cm
+   :scale: 30%
   
    Общий вид окна программы
 
@@ -62,7 +62,7 @@
 .. figure:: _static/ng_simplecollector_mobile_1_ru.png
    :name: nng_simplecollector_mobile_retry_ru
    :align: center
-   :height: 10cm
+   :scale: 30%
   
    Форма сбора данных.
    
