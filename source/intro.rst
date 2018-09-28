@@ -20,7 +20,7 @@ Introduction
 
 Features
 --------
-* Mobile app is freely available on `Google Play <https://play.google.com/store/apps/details?id=com.nextgis.simple_collector>`.
+* Mobile app is freely available on `Google Play <https://play.google.com/store/apps/details?id=com.nextgis.simple_collector>`_.
 * Configuration of data structure can be done via Web browser at your nextgis.com instance.
 * Surveyor just needs to install and app, fill Web GIS name, login and password.
 * Mobile app automatically syncs data with your Web GIS. In case there is no internet access, device reboot, or pause in surveying - data will not be lost. It will be sent to the server when connectivity is restored.
@@ -73,7 +73,7 @@ Ask surveyors to install Simple Collector. Let them know Web GIS name, login and
 Manual for surveyors
 ====================
 
-1. Download NextGIS Simple collector on `Google Play <https://play.google.com/store/apps/details?id=com.nextgis.simple_collector>`.
+1. Download NextGIS Simple collector on `Google Play <https://play.google.com/store/apps/details?id=com.nextgis.simple_collector>`_.
 2. Fill Web GIS name, login and password, provided by administrator
 3. You will see a list of surveyors. Select one.
 4. You can hit “Synchronize” to see the latest changes to the structure.
