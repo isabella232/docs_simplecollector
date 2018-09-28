@@ -79,6 +79,18 @@ Manual for surveyors
 4. You can hit “Synchronize” to see the latest changes to the structure.
 5. Go outside, hit “Start track” and then use buttons on the form to collect data.
 
+Troubleshooting
+=====================
+
+Message "initializatin error" may occur if you login to different instances (e. q. login to trolleway.nextgis.com, then login to mostram.nextgis.com). In case of Initializatin error go to Android system settings --> synchronisation --> settings for NextGIS Simple collector, and remove old accounts.
+
+.. figure:: _static/ng_simplecollector_android_synchronisation_accounts.jpg
+   :name: ng_simplecollector_android_synchronisation_accounts
+   :align: center
+   :scale: 30%
+  
+   Android OS settings of synchronisation
+
 After data collection
 =====================
 
@@ -92,9 +104,4 @@ Easier workflow: start desktop software NextGIS QGIS, connect to your Web GIS us
    :height: 10cm
   
    Collected data appear in desktop software NextGIS QGIS
-
-Troubleshooting
-=====================
-
-Message "initializatin error" may occur if you login to different instances (e. q. login to trolleway.nextgis.com, then login to mostram.nextgis.com). In case of Initializatin error go to Android system settings --> synchronisation --> settings for NextGIS Simple collector, and remove old accounts.
 
