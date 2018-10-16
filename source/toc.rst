@@ -10,5 +10,5 @@
 .. toctree::
    :maxdepth: 2
 
-   nextgiscollector_administrator
-   nextgiscollector_surveyor
+   _ngsimplecollector_administrator
+   _ngsimplecollector_surveyor
