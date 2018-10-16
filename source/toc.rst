@@ -10,5 +10,5 @@
 .. toctree::
    :maxdepth: 2
 
-   administrator
-   surveyor
+   nextgiscollector_administrator
+   nextgiscollector_surveyor
