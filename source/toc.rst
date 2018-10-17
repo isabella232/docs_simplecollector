@@ -10,5 +10,5 @@
 .. toctree::
    :maxdepth: 2
 
-   _ngsimplecollector_administrator
-   _ngsimplecollector_surveyor
+   ngsimplecollector_administrator
+   ngsimplecollector_surveyor
