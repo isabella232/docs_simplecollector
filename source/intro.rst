@@ -20,6 +20,7 @@ Introduction
 
 Features
 --------
+
 * Mobile app is freely available on `Google Play <https://play.google.com/store/apps/details?id=com.nextgis.simple_collector>`.
 * Configuration of data structure can be done via Web browser at your nextgis.com instance.
 * Surveyor just needs to install and app, fill Web GIS name, login and password.
