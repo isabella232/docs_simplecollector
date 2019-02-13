@@ -11,8 +11,8 @@ Introduction
 **Simple Collector** is an Android application that uses nextgis.com Web GIS for field data collection. Simple Collector provides simpler workflow than Formbuilder + NextGIS Mobile at the expense of flexibility. Simple Collector is super easy to use by surveyors and requires just a little bit a set up.
 
 
-.. figure:: _static/ng_simplecollector_mobile_1_ru.png
-   :name: nng_simplecollector_mobile_1_ru
+.. figure:: _static/ng_simplecollector_mobile_1_en.png
+   :name: nng_simplecollector_mobile_1_en
    :align: center
    :scale: 30%
   
@@ -67,8 +67,8 @@ Create data structure
 
 8. At your mobile device, click “Synchronize”. Your simple form will appear.
 
-.. figure:: _static/ng_simplecollector_mobile_1_ru.png
-   :name: nng_simplecollector_mobile_retry_ru
+.. figure:: _static/ng_simplecollector_mobile_1_en.png
+   :name: nng_simplecollector_mobile_retry_en
    :align: center
    :scale: 30%
   
