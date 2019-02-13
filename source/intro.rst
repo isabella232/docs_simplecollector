@@ -37,10 +37,18 @@ Create data structure
 =====================
 
 5. Open Web GIS in your Web browser. A new group “ Simple collector, data” will appear in the root folder.
+
+.. figure:: _static/ng_simplecollector_data_structure.png
+   :name: ng_simplecollector_data_structure
+   :align: center
+   :height: 10cm
+  
+   Group with data structure.
+   
 6. Add surveyors. Go to “People” lookup table → Update, add field crew.
 
-.. figure:: _static/ng_simplecollector_add_surveyors_1_ru.png
-   :name: ng_simplecollector_add_surveyors_1_ru
+.. figure:: _static/ng_simplecollector_add_surveyors_1_en.png
+   :name: ng_simplecollector_add_surveyors_1_en
    :align: center
    :height: 10cm
   
@@ -49,8 +57,8 @@ Create data structure
 
 7. Add surveyed “objects” list. Each object will be shown as a button for surveyor. Go to “objects’ lookup table → Update, and add record with browser. 
 
-.. figure:: _static/ng_simplecollector_objects_1_ru.png
-   :name: ng_simplecollector_objects_1_ru
+.. figure:: _static/ng_simplecollector_objects_1_en.png
+   :name: ng_simplecollector_objects_1_en
    :align: center
    :height: 10cm
   
