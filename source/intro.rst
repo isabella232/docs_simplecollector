@@ -98,7 +98,7 @@ Troubleshooting
 
 Message "initialization error" may occur if you login to different Web GIS (for example login to trolleway.nextgis.com and then login to mostram.nextgis.com) or to the same Web GIS using different accounts. If this happens go to Android system settings --> Account and find settings for NextGIS Simple collector, remove old accounts.
 
-.. figure:: _static/ng_simplecollector_android_synchronisation_accounts.jpg
+.. figure:: _static/ng_simplecollector_android_synchronisation_accounts.png
    :name: ng_simplecollector_android_synchronisation_accounts
    :align: center
    :scale: 30%
