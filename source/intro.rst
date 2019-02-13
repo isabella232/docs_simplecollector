@@ -94,8 +94,8 @@ Data will added as a Web GIS vector layer. You can download in as a GeoJSON or C
 
 Easier workflow: start desktop software NextGIS QGIS, connect to your Web GIS using NextGIS Connect plugin, and download layer right in  your GIS.
 
-.. figure:: _static/ng_simplecollector_desktop_1_ru.png
-   :name: ng_simplecollector_desktop_1_ru
+.. figure:: _static/ng_simplecollector_desktop_1_en.png
+   :name: ng_simplecollector_desktop_1_en
    :align: center
    :height: 10cm
   
